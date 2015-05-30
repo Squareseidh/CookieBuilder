@@ -28,9 +28,8 @@ $ gulp
 Gulp will compile & minify LESS files into css/dist
 You just have to import your less files into css/less/style.less
 
-```css
+```less
 //style.less
-
 @import "other-file.less"
 @import "dir/other-file2.less"
 ```
