@@ -27,7 +27,7 @@
             .pipe(sourcemaps.init())
             .pipe(minifyCSS())
             .pipe(sourcemaps.write())
-            .pipe(gulp.dest(targetCSSDir + '/dist/'));
+            .pipe(gulp.dest(targetCSSDir));
     });
 
     // Keep an eye on Less
