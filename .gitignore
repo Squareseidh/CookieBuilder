@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# NodeJS Files
+node_modules
+
+# Bower files
+bower_components
+
+# project files
+css/dist
+
