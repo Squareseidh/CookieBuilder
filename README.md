@@ -25,7 +25,7 @@ $ npm install
 $ gulp
 ```
 
-Gulp will compile & minify LESS files into css/dist on each CTRL+S
+Gulp will compile & minify LESS files into css/ on each CTRL+S
 You just have to import your less files into css/less/style.less
 
 ```less
