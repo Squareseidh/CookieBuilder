@@ -11,16 +11,16 @@ $ npm install -g bower
 $ npm install -g gulp
 ```
 
-Then just :
+- Then just :
 
 ```
 $ /path/to/project/directory
 $ npm install
 ```
 
-It'll install all project dependencies.
+*It'll install all project dependencies.*
 
-Then open a terminal and type
+**Then open a terminal and just type**
 ```
 $ gulp
 ```
